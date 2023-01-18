@@ -110,7 +110,6 @@ app.listen(PORT, () => {
 
 // const mongoose = require('mongoose')
 // const { MongoClient, ServerApiVersion } = require('mongodb');
-// const uri = "mongodb+srv://mongodb+srv://itpgroup03:prathila5@cluster0.hvvycoq.mongodb.net/traveler_db?retryWrites=true&w=majority";
 // const client = new MongoClient(URL, { useNewUrlParser: true, useUnifiedTopology: true, serverApi: ServerApiVersion.v1 });
 // client.connect(err => {
 //   const collection = client.db("cmplnts").collection("cmplnt");
