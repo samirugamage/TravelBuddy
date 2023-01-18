@@ -1,0 +1,76 @@
+.Box:hover{
+    opacity: 0.7;
+    transition-duration: 0.3s;
+    box-shadow: 0 0 2px 1px rgba(62, 82, 89, 0.5);
+
+}
+
+.navbar-brand{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+
+}
+
+.navbar{
+    background-color: rgb(215, 234, 215);
+}
+
+.Box{
+    border: 1px solid rgb(215, 234, 215);; /* Gray border */
+    border-radius: 5px;  /* Rounded border */
+    padding: 5px; /* Some padding */
+    width: 150px; /* Set a small width */
+}
+
+.lg {
+    width: 500px;
+    height: 450px;
+  }
+
+  .d-block {
+    width: 350px;
+    height: 500px;
+  }
+
+  .Para{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: medium;
+  }
+
+  .Ma {
+    font-family: 'Times New Roman', Times, serif;
+  }
+
+
+
+  label {
+    font-size: 14px;
+    font-weight: 600;
+    color: rgb(34, 34, 34);
+  }
+  
+  .container1{
+    padding-top: 60px;
+    max-width:70%;
+    text-align: left;
+  }
+  
+  .Box1{
+    width: 500px;
+    height: 500px;
+    border: 1px solid rgb(184, 242, 184);;
+    border-radius: 5px;
+    padding: 10px;
+  }
+
+  .Tb{
+    padding-right: 100px;
+  }
+ 
+  .navbar-bran{
+    font-family: 'Book Antiqua', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    font-weight: bolder;
+
+  }
